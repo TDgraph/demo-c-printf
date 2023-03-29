@@ -10,6 +10,7 @@
  * @precision: precision specifier
  * @size: Size specifier
  *
+ * I do better in print
  * Return: Number of chars printed.
  */
 int handle_write_char(char c, char buffer[],
